@@ -5,3 +5,5 @@
 
 -- If columns D and E are listed as "NA", matching to SIC was not successful. An alternative to match Activities, would be to use the [Low Carbon and Renewable
 Energy Economy (LCREE) Survey data](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8206). LCREE survey allows the allocation of LCREE sectors to SIC Sections.
+
+- `sic2007conversion`: adopted from [UKsicConverter](https://github.com/ygalanak/UKsicConverter).
